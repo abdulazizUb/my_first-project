@@ -40,7 +40,7 @@ def calc(key):
         if "=" in calc_entry.get():
             calc_entry.delete(0, END)
         calc_entry.insert(END, key)
-
+л
 
 # Создаем кнопки
 button__list = [
